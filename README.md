@@ -1,12 +1,12 @@
 ## Lucas Correa
 
-```
-   ____ _ _   _    _       _   _         _ 
-  / ___| | |_| |  (_)_ __ | |_(_) __ _  / |
- | |  _| | __| | | | '_ \| __| |/ _` | | |
- | |_| | | |_| |_| | | | | |_| | (_| | | |
-  \____|_|\__|___|_|_| |_|\__|_|\__,_| |_|
+<div style="color: blue; padding: 10px; border: 1px solid blue;">
+  This is a rendered HTML block with custom styling.
+</div>
 
+```html
+<!-- This will display as a readable code snippet -->
+<p>Hello World</p>
 ```
 
 - I’m currently working on network flow detection of attacks
