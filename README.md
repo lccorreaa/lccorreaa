@@ -1,6 +1,6 @@
 ## Lucas Correa
 
-<div style="color: blue; padding: 10px; border: 1px solid blue;">
+<div style="color: blue; padding: 10px; border: 40px solid blue;">
   This is a rendered HTML block with custom styling.
 </div>
 
