@@ -1,11 +1,15 @@
 ## Lucas Correa
 
-Here are some ideas to get you started:
+```
+   ____ _ _   _    _       _   _         _ 
+  / ___| | |_| |  (_)_ __ | |_(_) __ _  / |
 
-- 🔭 I’m currently working on network flow detection of attacks
+ | |  _| | __| | | | '_ \| __| |/ _` | | |
+ | |_| | | |_| |_| | | | | |_| | (_| | | |
+  \____|_|\__|___|_|_| |_|\__|_|\__,_| |_|
+
+```
+
+- I’m currently working on network flow detection of attacks
 - 🌱 I’m currently learning machine learning
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+lucas.c.correa1@gmail.com | 919-869-6972
