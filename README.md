@@ -7,5 +7,3 @@ Interested in Building scalable platforms at the intersection of **data, AI/ML, 
 - [Website](https://lccorreaa.github.io)
 - [LinkedIn](https://www.linkedin.com/in/lucas-correa-07116b28a/)
 - **lucas.c.correa1@gmail.com**
-
-Thanks for visiting! ✨ Let's build something awesome together.
